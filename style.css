@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(18, 27, 58)
+}
+#qoute{
+    background-color: antiquewhite;
+    border:  solid rgba(158, 102, 57, 0.993);
+    padding: 50px;
+    text-align: center;
+    margin-top: 10%;
+    border-width: 10px 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+h1{
+    color: rgb(85, 18, 148);
+    font-family: "Jersey 10", sans-serif;
+    font-size: 100px;
+    text-transform: capitalize;
+}
+p{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+  }
+
